@@ -7258,6 +7258,9 @@
           "group": "EPWW",
           "owner": [
               "TRZ",
+              "AKRZ",
+              "AKKE",
+              "AKK",
               "RWW",
               "JWW",
               "EPWW",
@@ -11479,6 +11482,9 @@
           "group": "EPWW",
           "owner": [
               "TRZ",
+              "AKRZ",
+              "AKKE",
+              "AKK",
               "RWW",
               "JWW",
               "EPWW",
@@ -12559,6 +12565,19 @@
               }
           ]
       },
+      "AKRZ": {
+          "callsign": "Krakow Approach",
+          "frequency": "133.030",
+          "type": "APP",
+          "pre": [
+              "EPKK"
+          ],
+          "colours": [
+              {
+                  "hex": "#000095"
+              }
+          ]
+      },
       "TKK": {
           "callsign": "Krakow Tower",
           "frequency": "123.255",
@@ -13317,7 +13336,7 @@
       "EPRZ": {
           "callsign": "Rzeszow",
           "coord": [50.11, 22.018889],
-          "topdown": ["RWW", "JWW", "EPWW", "UWW"]
+          "topdown": ["AKRZ", "AKKE", "AKK", "RWW", "JWW", "EPWW", "UWW"]
       },
       "EPSA": { "callsign": "Sanok-Baza", "coord": [49.57575, 22.202139] },
       "EPSB": { "callsign": "Wiazowna", "coord": [52.182139, 21.28925] },
