@@ -9276,6 +9276,7 @@
           "id": "EPGD_TMA_E",
           "group": "EPWW",
           "owner": [
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9306,6 +9307,7 @@
           "id": "EPGD_TMA_D",
           "group": "EPWW",
           "owner": [
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9337,6 +9339,7 @@
           "id": "EPGD_TMA_C",
           "group": "EPWW",
           "owner": [
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9379,7 +9382,7 @@
           "id": "EPGD_TMA_C",
           "group": "EPWW",
           "owner": [
-              "FGD",
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9461,7 +9464,7 @@
           "id": "EPGD_TMA_B",
           "group": "EPWW",
           "owner": [
-              "FGD",
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9503,6 +9506,7 @@
           "id": "EPGD_TMA_A",
           "group": "EPWW",
           "owner": [
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -9542,7 +9546,7 @@
           "id": "EPGD_TMA_A",
           "group": "EPWW",
           "owner": [
-              "FGD",
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -12145,7 +12149,7 @@
           "group": "EPWW",
           "owner": [
               "TGD",
-              "FGD",
+              "LGD",
               "AGD",
               "FWW",
               "GWW",
@@ -12396,8 +12400,8 @@
               }
           ]
       },
-      "FGD": {
-          "callsign": "Gdansk Director",
+      "LGD": {
+          "callsign": "Gdansk Approach",
           "frequency": "133.660",
           "type": "APP",
           "pre": [
@@ -13199,7 +13203,7 @@
         "callsign": "Gdansk",
         "coord": [54.377569, 18.466222],
         "default": false,
-        "topdown": ["FGD", "AGD", "FWW", "GWW", "NWW", "EPWW", "UWW"]
+        "topdown": ["LGD", "AGD", "FWW", "GWW", "NWW", "EPWW", "UWW"]
       },
       "EPGE": { "callsign": "Gize", "coord": [53.983367, 22.402125] },
       "EPGH": { "callsign": "Mazury Helipad", "coord": [54.0349, 21.799806] },
