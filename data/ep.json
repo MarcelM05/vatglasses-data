@@ -12959,19 +12959,6 @@
               }
           ]
       },
-      "EPWW": {
-          "callsign": "Warszawa Radar",
-          "frequency": "125.450",
-          "type": "CTR",
-          "pre": [
-              "EPWW"
-          ],
-          "colours": [
-              {
-                  "hex": "#E6AA22"
-              }
-          ]
-      },
       "BWW": {
           "callsign": "Warszawa Radar",
           "frequency": "127.025",
@@ -12985,9 +12972,22 @@
               }
           ]
       },
+      "EPWW": {
+          "callsign": "Warszawa Radar",
+          "frequency": "125.450",
+          "type": "CTR",
+          "pre": [
+              "EPWW"
+          ],
+          "colours": [
+              {
+                  "hex": "#E6AA22"
+              }
+          ]
+      },
       "CWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "134.875",
+          "frequency": "133.475",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13013,7 +13013,7 @@
       },
       "EWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "127.450",
+          "frequency": "120.950",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13026,7 +13026,7 @@
       },
       "FWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "124.275",
+          "frequency": "129.075",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13039,7 +13039,7 @@
       },
       "GWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "129.075",
+          "frequency": "124.925",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13065,7 +13065,7 @@
       },
       "JWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "127.660",
+          "frequency": "124.625",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13078,7 +13078,7 @@
       },
       "NWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "130.625",
+          "frequency": "132.700",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13091,7 +13091,7 @@
       },
       "RWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "130.875",
+          "frequency": "123.625",
           "type": "CTR",
           "pre": [
               "EPWW"
@@ -13104,7 +13104,7 @@
       },
       "UWW": {
           "callsign": "Warszawa Radar",
-          "frequency": "132.700",
+          "frequency": "130.625",
           "type": "CTR",
           "pre": [
               "EPWW"
